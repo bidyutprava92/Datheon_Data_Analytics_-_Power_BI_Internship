@@ -1,7 +1,6 @@
 # Task 2: Executive Sales & Profit Dashboard (Power BI)
-! [Executive Sales & Profit Dashboard](dashboard.png)
+<img src="dashboard.png" alt="Executive Sales and Profit Dashboard" width="800">
 An interactive one-page Power BI dashboard built on the Superstore sales dataset (9,994 orders, 2015-2018).
-
 ## Files
 - `Executive_Sales_Profit_Dashboard.pbix`: Power BI report file
 - `Executive_Sales_Profit_Dashboard.pdf`: PDF export of the dashboard
